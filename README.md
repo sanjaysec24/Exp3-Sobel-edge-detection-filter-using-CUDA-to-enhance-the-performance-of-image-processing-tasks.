@@ -2,7 +2,7 @@
 <h3>ENTER YOUR NAME:SANJAYKUMAR B</h3>
 <h3>ENTER YOUR REGISTER NO:212224230242</h3>
 <h3>EX. NO:3</h3>
-<h3>DATE:17.03.2026</h3>
+<h3>DATE:16.03.2026</h3>
 <h1> <align=center> Sobel edge detection filter using CUDA </h3>
   Implement Sobel edge detection filtern using GPU.</h3>
 Experiment Details:
